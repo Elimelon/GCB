@@ -1,0 +1,1 @@
+The Code3.R, Data1-FDis.csv, Data2-effect.csv and Data2-treatment.csv are used in supporting the study titled "Multiple nutrient additions homogenize multi-dimensional plant stoichiometry in a meadow steppe". The Code3.R is written in R. The CSV files are data for figures and tables. Open the Code3.R, run the codes by using the data from the three CSV files.
