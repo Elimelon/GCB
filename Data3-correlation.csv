@@ -1,0 +1,9 @@
+effect,ratio,se,Effect,Ratio,Se,Nutrients
+Effect of ME addition on CWM-ME content,2.716357046,0.395333031,Effect of ME addition on Soil ME content,-2.933458294,8.003748828,ME
+Effect of Fe addition on CWM-Fe content,-3.240714884,5.110304384,Effect of Fe addition on Soil Fe content,2.71577381,6.086309524,Fe
+Effect of Mg addition on CWM-Mg content,8.700501952,2.342442833,Effect of Mg addition on Soil Mg content,14.65669195,2.158229145,Mg
+Effect of Ca addition on CWM-Ca content,-5.106796117,4.970873786,Effect of Ca addition on Soil Ca content,8.680189673,9.77081138,S
+Effect of K addition on CWM-K content,5.091059603,3.203642384,Effect of K addition on Soil K content,123.1364679,5.986238532,Ca
+Effect of S addition on CWM-S content,16.23277182,2.220520674,Effect of S addition on Soil S content,-18.33180568,14.42102047,K
+Effect of P addition on CWM-P content,72.54791432,2.81848929,Effect of P addition on Soil P content,166.2465538,20.61835368,P
+Effect of N addition on CWM-N content,81.1038961,5.194805195,Effect of N addition on Soil N content,172.7642276,17.05691057,N

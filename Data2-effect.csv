@@ -1,0 +1,17 @@
+effect,duration,ratio,se,Effect,Duration,Ratio,Se
+Effect of ME addition on CWM-ME content,Nutrient,4.359917467,1.671173538,Effect of ME addition on Soil ME content,Nutrient,,
+Effect of Fe addition on CWM-Fe content,Nutrient,-3.091822095,3.464849354,Effect of Fe addition on Soil Fe content,Nutrient,2.418879056,3.886430678
+Effect of Mg addition on CWM-Mg content,Nutrient,-9.81112277,3.725078699,Effect of Mg addition on Soil Mg content,Nutrient,-3.476775956,3.392531876
+Effect of Ca addition on CWM-Ca content,Nutrient,1.534526854,2.849835586,Effect of Ca addition on Soil Ca content,Nutrient,2.708046768,2.849724897
+Effect of K addition on CWM-K content,Nutrient,19.51164538,4.688204358,Effect of K addition on Soil K content,Nutrient,-23.03604608,9.2827945
+Effect of S addition on CWM-S content,Nutrient,14.90015361,2.995391705,Effect of S addition on Soil S content,Nutrient,-14.359039,12.05458
+Effect of P addition on CWM-P content,Nutrient,14.50381679,4.580152672,Effect of P addition on Soil P content,Nutrient,64.82378855,24.16299559
+Effect of N addition on CWM-N content,Nutrient,10.58091286,6.293222683,Effect of N addition on Soil N content,Nutrient,-89.6404276,19.08649174
+Effect of ME addition on CWM-ME content,Nutrient:Duration,,,Effect of ME addition on Soil ME content,Nutrient:Duration,,
+Effect of Fe addition on CWM-Fe content,Nutrient:Duration,,,Effect of Fe addition on Soil Fe content,Nutrient:Duration,,
+Effect of Mg addition on CWM-Mg content,Nutrient:Duration,5.823714586,1.731374607,Effect of Mg addition on Soil Mg content,Nutrient:Duration,6.51867031,1.568533698
+Effect of Ca addition on CWM-Ca content,Nutrient:Duration,,,Effect of Ca addition on Soil Ca content,Nutrient:Duration,,
+Effect of K addition on CWM-K content,Nutrient:Duration,-4.800901578,2.163786627,Effect of K addition on Soil K content,Nutrient:Duration,61.12969156,4.396135266
+Effect of S addition on CWM-S content,Nutrient:Duration,1.689708141,1.920122888,Effect of S addition on Soil S content,Nutrient:Duration,,
+Effect of P addition on CWM-P content,Nutrient:Duration,17.79213153,2.113916618,Effect of P addition on Soil P content,Nutrient:Duration,49.69162996,11.03524229
+Effect of N addition on CWM-N content,Nutrient:Duration,24.06639004,2.973720609,Effect of N addition on Soil N content,Nutrient:Duration,92.9154519,8.668610301
